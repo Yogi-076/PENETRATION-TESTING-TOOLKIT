@@ -16,7 +16,9 @@ Attempts to extract the ZIP file with each password.
 Stops when the correct password is found or when the list is exhausted.
 
 # OutPut : 
+![Image](https://github.com/user-attachments/assets/72211ebf-1b9a-403d-ac28-a8f0763286f9)
 
+![Image](https://github.com/user-attachments/assets/a9cc89d9-4145-4fb9-af1f-0b0b06f267e3)
 
 
 # TCP Port Scanner:
