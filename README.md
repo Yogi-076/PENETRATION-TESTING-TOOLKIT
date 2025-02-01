@@ -108,5 +108,3 @@ Ensure you have permission before scanning any network or cracking any files.
 This tool is intended for educational and authorized security testing purposes only. Unauthorized use may violate legal and ethical guidelines.
 
 # Author : Yogi Atram
-
-Your Name
