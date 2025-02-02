@@ -13,7 +13,7 @@ BATCH DURATION: January 15th, 2025 to February 15th, 2025
 MENTOR NAME: Neela Santhosh Kumar
 
 
-This Python script provides two functionalities:
+# This Python script provides two functionalities:
 
 Brute Force ZIP Password Cracker: Uses a dictionary attack to attempt password cracking on a ZIP file.
 
